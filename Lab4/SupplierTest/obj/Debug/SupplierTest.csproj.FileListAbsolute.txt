@@ -1,0 +1,1 @@
+C:\Users\PC\source\Session1Update\Lab4\SupplierTest\obj\Debug\SupplierTest.csproj.CoreCompileInputs.cache
